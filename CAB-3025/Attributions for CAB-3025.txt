@@ -1,158 +1,34 @@
 Attributions for CAB-3025
 
-This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model) and the license under which that author releases their model.
+This document will detail the various contributors to this collection of community assets for BattleTech by Harebrained Schemes. Each asset will have its listed author (the person or organization that made the model).
 
 Colobos/Crackfoxx
-License: 
-Creative Commons, Non-commercial
-
 Models:
-Phoenix Hawk LAM
-Stinger LAM
 Toro
-Titan II
-Wasp LAM
-Community Hunchback
 
 Lt. Shade
-License: 
-Creative Commons, Attribution, Non-commercial
-
 Models:
-Archangel
-Argus
-Avatar
-Bellerophon
-Bombard
 Clint
-Cyclone
-Dragon Fire
 Emperor
 Firebee
-Helepolis
-Hollander
-Huron Warrior (huronw)
-Huron Warrior Redux (huronwarrior)
 Icarus II
 Imp
 Juggernaut
-Lament
 Lancelot
-Lao Hu
 Mackie
 Merlin
-Sorcerer
 Talos
 Templar
-Valiant
-Valkyrie II
 
 GentlePayload:
-License:
-Creative Commons, Non-commercial
-
 Models:
-Hauptmann
-Anubis
-Preta
 Thug
 
 Ion Raptor
-License:
-Creative Commons - Non-Commercial
-
 Models:
-Blitzkrieg
-Chimera
-Grand Titan
-Ion BruinIon Cyclops
-Ion Dolorie
 Ion Longbow
-Ion Raptor
-Ion Raptor 2
-Ion Sunder
-Ion Zeus
-Owens
-Prometheus
-Raptor
-Razorback
-Strider
-Swordsman (swd)
-Wraith
-Penetrator
-Vanquisher
-Neanderthal
-(Arthur) Pendragon
-Monster
-Rakshasa
-Phoenix Hawk LAM BattleMech
-Fafnir II
-Legacy
-Atlas IV
-Seraph
-Grigori
-Deva
-
-Transient74
-License:
-Creative Commons, Non-commercial
-
-Models:
-Bruin
-Hazard
-Jaguar LAM
-Osprey
-Phantom LAM
-SLUF LAM
-Warthog LAM v2
-Warthog LAM v3
-Screamer LAM
-Screamer LAM BattleMech
-Cockatrice LAM and Bot
-Gripen LAM and Bot
-VF11 LAM
-LegacyPHawk
-Freedom
-Thunderstone
-Generic Superheavy 2
-Shorty Sneede's Rifleman
-Ettin
-Assassin 2
-
-Transient74 and IonRaptor
-License:
-Creative Commons, Non-commercial
-
-Models:
-Liberty
-Generic Superheavy 1
-Generic Superheavy 3
-Generic Superheavy 4
-Alligator (generic SH 5?)
-Generic Superheavy 6
-Transient
-PirateMech
-Crabshasapult FrankenMech
-
-Transient74/IonRaptor/JuodasVarnas
-License:
-Creative Commons, Non-commercial
-
-Models:
-Schwerer Gustav
-
-Transient74 and David L. of SupermotoXL Designs:
-License:
-Creative Commons, Non-commercial
-
-Models:
-Switchblade LAM
-Black Owl LAM
 
 SolahmaJoe
-License:
-Creative Commons, Non-Commercial
-
 Models:
 Crusader
 Wasp
@@ -163,37 +39,15 @@ Ostsol
 Valkyrie
 
 Piranha Games, Inc.
-License: 
-Unstated but seems to effectively be Creative Commons - Non-Commercial
-
 Models:
-Bushwacker
 Champion
 Charger
 Charger PB
 Dervish
-Fafnir
-Hatamoto-Chi
-Hatamoto-Chi Sam
-Hellspawn
-K2pult
-K9
 Marauder II
 Mauler
 Nightstar
-Osiris
-Roughneck
-Roughneck Crane
-RTCorsair 1-5
-Thanatos
-Urbanmech50
-Uziel
-Urbie
-UrbieLord
 Wolfhound 
-Hammertime Omni
-Longbow
-Zeus X
 
 Rudy Valle
 License:
@@ -202,71 +56,27 @@ Creative Commons - Non-Commercial
 Models:
 Mongoose
 
-SouthernMountain
-License:
-Creative Commons - Attribution, Non-Commercial
-
-Models:
-Wasp Legacy
-Stinger Legacy
-Phoenix Hawk Legacy
-
 JuodasVarnas 
-License:
-Creative Commons, Attribution, Non-commercial
-
 Models:
-Yeoman
 Bombardier
-Enfield
-Mantis
-Brigand
-Thunder
-Helios
 
 SmallRobotsInAContainer/Napes
-License:
-Creative Commons, Attribution, Non-commercial
-
 Models:
-Anvil
 Gladiator
-Salamander
 Wyvern
 Sentinel
-Wight
 Whitworth
 Thorn
 Talon
-Berserker
 Chameleon
 Firefly
-Napes Osprey
-Hector
 Night Hawk
 Hermes
-Phoenix
 Thunder Hawk
 Lynx
-Blackheart
-Fireball
-Battleaxe
-Sha Yu
 
-FrostRaptor
-License:
-CC BY-NC-SA 4.0
-
-Models:
-Dig King
-Gunslinger
-
-Unlicensed Models
 Mason
 Models:
-Viking
-Devastator
-Crockett (crk)
 Starslayer
 Guillotine
 
@@ -275,45 +85,19 @@ Models:
 Hornet
 Hussar
 
-Mike.g
-Models:
-Crosscut
-
-Nordban
-Models:
-Interplanetary Excavator
-
-Maker Unknown:
-Models:
-Omega
-
 
 SirMortimer and Transient
-License:
-Unlicensed
-
 Models:
-Carronade
 Hoplite
-Ghost
-Gun
-Red Corsair
-Ymir
 
 Vossiewulf and Transient
 License:
 Unlicensed
 
 Models:
-Hitotsume Kozo
 Falcon
-Von Rohrs
 Ostscout
-Toyama
 
 Brian Banzai and Transient
-License:
-Creative Commons - Non Commercial
-
 Models:
 Shootist
