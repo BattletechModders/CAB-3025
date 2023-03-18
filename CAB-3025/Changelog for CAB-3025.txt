@@ -2,6 +2,10 @@ Changelog for CAB-3025
 
 -----------------------------------------------------
 
+1.1
+
+Added the Exterminator
+
 1.0
 
 Initial Commit

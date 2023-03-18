@@ -101,3 +101,7 @@ Ostscout
 Brian Banzai and Transient
 Models:
 Shootist
+
+Transient74 and IonRaptor
+Models:
+Exterminator
