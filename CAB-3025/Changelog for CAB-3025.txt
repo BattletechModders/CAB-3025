@@ -2,6 +2,10 @@ Changelog for CAB-3025
 
 -----------------------------------------------------
 
+1.2 
+
+Added the Spector
+
 1.1
 
 Added the Exterminator

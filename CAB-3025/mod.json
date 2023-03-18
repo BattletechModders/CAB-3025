@@ -2144,7 +2144,23 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_srm4_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_lefttorso_srm6_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/spector/chrPrfComp_spector_simgame.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_spectorbase-001.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/spector/chrPrfComp_spector_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },		
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/spector/chrPrfComp_spector_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/spector/chrprfweap_spector_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/spector/chrprfweap_spector_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/spector/chrprfweap_spector_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/spector/chrprfweap_spector_leftarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/spector/chrprfweap_spector_leftarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/spector/chrprfweap_spector_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/spector/chrprfweap_spector_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_spectorbase-001" }
 	
     ]
 }

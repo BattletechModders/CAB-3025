@@ -1,0 +1,55 @@
+{
+	"ID": "hardpointdatadef_spector",
+	"HardpointData": [{
+			"location": "leftarm",
+			"weapons": [
+				[
+					"chrprfweap_spector_leftarm_laser_eh1",
+					"chrprfweap_spector_leftarm_ppc_eh1"
+				],
+				[
+					"chrprfweap_spector_leftarm_laser_eh2",
+					"chrprfweap_spector_leftarm_ppc_eh2"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_spector_rightarm_laser_eh1",
+					"chrprfweap_spector_rightarm_ppc_eh1"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [],
+				"blanks": [],
+				"mountingPoints": []
+			},
+			{
+				"location": "head",
+				"weapons": [
+				[
+					"chrprfweap_spector_head_laser_eh1"
+				]				
+				],
+				"blanks": [
+
+				],
+				"mountingPoints": []
+			}
+		]
+
+	}

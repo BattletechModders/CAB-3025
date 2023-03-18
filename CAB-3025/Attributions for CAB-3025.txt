@@ -105,3 +105,4 @@ Shootist
 Transient74 and IonRaptor
 Models:
 Exterminator
+Spector
