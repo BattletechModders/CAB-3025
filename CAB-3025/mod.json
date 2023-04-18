@@ -2126,7 +2126,6 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_leftarm_gauss_bh3.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },	
 
 
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm20_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm15_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm5_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/exterminator/chrprfweap_exterminator_righttorso_lrm10_mh1.prefab", "AssetBundleName": "chrprfmech_exterminatorbase-001" },
