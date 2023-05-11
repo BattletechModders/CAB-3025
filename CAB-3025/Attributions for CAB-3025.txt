@@ -50,9 +50,6 @@ Nightstar
 Wolfhound 
 
 Rudy Valle
-License:
-Creative Commons - Non-Commercial
-
 Models:
 Mongoose
 
@@ -85,15 +82,11 @@ Models:
 Hornet
 Hussar
 
-
 SirMortimer and Transient
 Models:
 Hoplite
 
 Vossiewulf and Transient
-License:
-Unlicensed
-
 Models:
 Falcon
 Ostscout
@@ -106,3 +99,5 @@ Transient74 and IonRaptor
 Models:
 Exterminator
 Spector
+331Exterminator
+331Spector
