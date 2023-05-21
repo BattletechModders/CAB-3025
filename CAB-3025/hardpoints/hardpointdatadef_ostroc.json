@@ -5,9 +5,7 @@
             "location" : "head",
             "weapons" : [
                 [
-                    "chrPrfWeap_ostroc_head_srm4_mh1",
-                    "chrPrfWeap_ostroc_head_laser_eh1",
-                    "chrPrfWeap_ostroc_head_mg_bh1"
+                    "chrPrfWeap_ostroc_head_srm4_mh1"
                 ]				
             ],
             "blanks" : [
