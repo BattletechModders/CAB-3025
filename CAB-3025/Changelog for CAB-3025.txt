@@ -2,6 +2,10 @@ Changelog for CAB-3025
 
 -----------------------------------------------------
 
+1.4
+
+Added the Pillager and 331Pillager
+
 1.3
 
 Added the 331Exterminator and 331Spector
