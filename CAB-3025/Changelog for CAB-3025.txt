@@ -2,6 +2,10 @@ Changelog for CAB-3025
 
 -----------------------------------------------------
 
+1.5
+
+Moved Sneed's Rifleman and the Hatamotos here
+
 1.4
 
 Added the Pillager and 331Pillager
