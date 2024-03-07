@@ -43,7 +43,7 @@
 					"chrprfweap_emperor_leftarm_laser_eh2",
 					"chrprfweap_emperor_leftarm_lbx_bh2",
 					"chrprfweap_emperor_leftarm_mg_bh2",
-					"chrprfweap_emperor_leftarm_ppc_eh2",
+					"chrprfweap_emperor_leftarm_ppc_eh2"
 				]
 			],
 			"blanks": [],
@@ -67,7 +67,6 @@
 					"chrprfweap_emperor_lefttorso_ppc_eh1",
 					"chrprfweap_emperor_lefttorso_srm6_mh1",
 					"chrprfweap_emperor_lefttorso_uac5_bh1"
-
 				],
 				[
 					"chrprfweap_emperor_lefttorso_laser_eh2",
@@ -90,9 +89,8 @@
 					"chrprfweap_emperor_rightarm_mg_bh1",
 					"chrprfweap_emperor_rightarm_ppc_eh1",
 					"chrprfweap_emperor_rightarm_uac5_bh1"
-
 				],
-				[	
+				[
 					"chrprfweap_emperor_rightarm_laser_eh2",
 					"chrprfweap_emperor_rightarm_ppc_eh2"
 				]
@@ -118,7 +116,6 @@
 					"chrprfweap_emperor_righttorso_ppc_eh1",
 					"chrprfweap_emperor_righttorso_srm6_mh1",
 					"chrprfweap_emperor_righttorso_uac5_bh1"
-
 				],
 				[
 					"chrprfweap_emperor_righttorso_laser_eh2",
