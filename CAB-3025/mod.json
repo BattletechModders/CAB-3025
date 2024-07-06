@@ -2411,7 +2411,58 @@
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hatamotochisam/chrPrfWeap_hatamotochisam_righttorso_srm20_mh2.prefab", "AssetBundleName": "chrprfmech_hatamotochisam-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hatamotochisam/chrPrfWeap_hatamotochisam_righttorso_mg_bh3.prefab", "AssetBundleName": "chrprfmech_hatamotochisam-001" },
         { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hatamotochisam/chrPrfWeap_hatamotochisam_righttorso_ac20_bh3.prefab", "AssetBundleName": "chrprfmech_hatamotochisam-001" },
-        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hatamotochisam/chrPrfWeap_hatamotochisam_righttorso_gauss_bh3.prefab", "AssetBundleName": "chrprfmech_hatamotochisam-001" }
+        { "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/hatamotochisam/chrPrfWeap_hatamotochisam_righttorso_gauss_bh3.prefab", "AssetBundleName": "chrprfmech_hatamotochisam-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/firebeev2/chrPrfComp_firebeev2_simgame.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_firebeev2base-001.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/firebeev2/chrPrfComp_firebeev2_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_centertorso_srm2_mh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_centertorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },	
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_lbx_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_uac5_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_lefttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },	
+
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_ac10_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_lbx_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_mg_bh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_mg_bh2.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_srm2_mh3.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_srm4_mh3.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_righttorso_srm6_mh3.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_flamer_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_flamer_eh2.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_lrm5_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_srm2_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_srm4_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_rightarm_srm6_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_leftarm_lrm5_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_leftarm_srm2_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_leftarm_srm4_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/firebeev2/chrprfweap_firebeev2_leftarm_srm6_mh5.prefab", "AssetBundleName": "chrprfmech_firebeev2base-001" }
 	
     ]
 }

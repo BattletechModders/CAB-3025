@@ -101,3 +101,7 @@ Exterminator
 Spector
 331Exterminator
 331Spector
+
+Transient74 and LtShade
+Models:
+Firebee v2

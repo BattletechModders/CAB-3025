@@ -2,6 +2,10 @@ Changelog for CAB-3025
 
 -----------------------------------------------------
 
+1.6
+
+Added the Firebee v2
+
 1.5
 
 Moved Sneed's Rifleman and the Hatamotos here
