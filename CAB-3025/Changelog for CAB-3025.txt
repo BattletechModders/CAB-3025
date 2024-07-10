@@ -2,6 +2,10 @@ Changelog for CAB-3025
 
 -----------------------------------------------------
 
+1.7
+
+Added the MWO Crusader
+
 1.6
 
 Added the Firebee v2

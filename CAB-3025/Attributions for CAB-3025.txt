@@ -47,7 +47,8 @@ Dervish
 Marauder II
 Mauler
 Nightstar
-Wolfhound 
+Wolfhound
+Crusader
 
 Rudy Valle
 Models:
