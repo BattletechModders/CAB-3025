@@ -19,6 +19,11 @@ Mackie
 Merlin
 Talos
 Templar
+LtMackie
+
+Transient74
+Models:
+t74Mackie
 
 GentlePayload:
 Models:
