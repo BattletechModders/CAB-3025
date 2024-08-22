@@ -55,7 +55,7 @@
 					"chrprfweap_firebeev2_lefttorso_ac10_bh1",
 					"chrprfweap_firebeev2_lefttorso_gauss_bh1",
 					"chrprfweap_firebeev2_lefttorso_laser_eh1",
-					"chrprfweap_firebeev2_lefttorso_flamer_eh1"
+					"chrprfweap_firebeev2_lefttorso_flamer_eh1",
 					"chrprfweap_firebeev2_lefttorso_lbx_bh1",
 					"chrprfweap_firebeev2_lefttorso_mg_bh1",
 					"chrprfweap_firebeev2_lefttorso_ppc_eh1",
@@ -111,7 +111,7 @@
 					"chrprfweap_firebeev2_righttorso_ac10_bh1",
 					"chrprfweap_firebeev2_righttorso_gauss_bh1",
 					"chrprfweap_firebeev2_righttorso_laser_eh1",
-					"chrprfweap_firebeev2_righttorso_flamer_eh1"
+					"chrprfweap_firebeev2_righttorso_flamer_eh1",
 					"chrprfweap_firebeev2_righttorso_lbx_bh1",
 					"chrprfweap_firebeev2_righttorso_mg_bh1",
 					"chrprfweap_firebeev2_righttorso_ppc_eh1"
@@ -134,26 +134,3 @@
         }
     ]
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
