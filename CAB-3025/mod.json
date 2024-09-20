@@ -2639,7 +2639,33 @@
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/t74mackie/chrprfweap_t74mackie_centertorso_laser_eh2.prefab", "AssetBundleName": "chrprfmech_t74mackiebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/t74mackie/chrprfweap_t74mackie_centertorso_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_t74mackiebase-001" },
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/t74mackie/chrprfweap_t74mackie_centertorso_ac10_bh2.prefab", "AssetBundleName": "chrprfmech_t74mackiebase-001" },	
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/t74mackie/chrprfweap_t74mackie_centertorso_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_t74mackiebase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/t74mackie/chrprfweap_t74mackie_centertorso_gauss_bh2.prefab", "AssetBundleName": "chrprfmech_t74mackiebase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/331talon/chrPrfComp_331talon_simgame.prefab", "AssetBundleName": "chrprfmech_331talonbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_331talonbase-001.prefab", "AssetBundleName": "chrprfmech_331talonbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/331talon/chrPrfComp_331talon_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_331talonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331talon/chrprfweap_331talon_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331talonbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331talon/chrprfweap_331talon_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331talonbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331talon/chrprfweap_331talon_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331talonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331talon/chrprfweap_331talon_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331talonbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/331lynx/chrPrfComp_331lynx_simgame.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_331lynxbase-001.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },	
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/331lynx/chrPrfComp_331lynx_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331lynx/chrprfweap_331lynx_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331lynx/chrprfweap_331lynx_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331lynx/chrprfweap_331lynx_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331lynx/chrprfweap_331lynx_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" }
 	
     ]
 }
