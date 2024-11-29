@@ -310,7 +310,6 @@
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/emperor/chrprfweap_emperor_leftarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_emperorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/emperor/chrprfweap_emperor_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_emperorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/emperor/chrprfweap_emperor_leftarm_lbx_bh1.prefab", "AssetBundleName": "chrprfmech_emperorbase-001" },
-		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/emperor/chrprfweap_emperor_leftarm_lbx_bh2.prefab", "AssetBundleName": "chrprfmech_emperorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/emperor/chrprfweap_emperor_leftarm_mg_bh1.prefab", "AssetBundleName": "chrprfmech_emperorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/emperor/chrprfweap_emperor_leftarm_mg_bh2.prefab", "AssetBundleName": "chrprfmech_emperorbase-001" },
 		{ "Type": "Prefab","Path": "assets/character/mechs/prefabs/weapons/emperor/chrprfweap_emperor_leftarm_ppc_eh2.prefab", "AssetBundleName": "chrprfmech_emperorbase-001" },
