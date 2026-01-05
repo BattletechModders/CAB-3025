@@ -107,6 +107,7 @@ Exterminator
 Spector
 331Exterminator
 331Spector
+Ion Clint
 
 Transient74 and LtShade
 Models:

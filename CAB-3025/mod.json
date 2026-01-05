@@ -2664,7 +2664,27 @@
 
 		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331lynx/chrprfweap_331lynx_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },
 		
-		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331lynx/chrprfweap_331lynx_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" }
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/331lynx/chrprfweap_331lynx_leftarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_331lynxbase-001" },	
+	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionclint/chrPrfComp_ionclint_simgame.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/chrprfmech_ionclintbase-001.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionclint/chrPrfComp_ionclint_centertorso_headlight.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },		
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/components/ionclint/chrPrfComp_ionclint_centertorso_jumpjet.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_rightarm_blank_eh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_rightarm_ac5_bh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_rightarm_gauss_bh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },	
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_rightarm_ppc_eh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_rightarm_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_rightarm_laser_eh2.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+		
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_righttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_lefttorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+
+		{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_head_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" },
+			{ "Type": "Prefab", "Path": "assets/character/mechs/prefabs/weapons/ionclint/chrprfweap_ionclint_centertorso_laser_eh1.prefab", "AssetBundleName": "chrprfmech_ionclintbase-001" }
 	
     ]
 }

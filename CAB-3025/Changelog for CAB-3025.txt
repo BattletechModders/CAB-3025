@@ -2,6 +2,10 @@ Changelog for CAB-3025
 
 -----------------------------------------------------
 
+1.9
+
+Added the Ion Clint 
+
 1.8
 
 Added the Lt Mackie and t74 Mackie

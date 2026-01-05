@@ -1,0 +1,70 @@
+{
+	"ID": "hardpointdatadef_ionclint",
+	"HardpointData": [{
+			"location": "leftarm",
+			"weapons": [],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "lefttorso",
+			"weapons": [
+				[
+					"chrprfweap_ionclint_lefttorso_laser_eh1"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+		{
+			"location": "rightarm",
+			"weapons": [
+				[
+					"chrprfweap_ionclint_rightarm_ac5_bh1",
+					"chrprfweap_ionclint_rightarm_gauss_bh1",
+					"chrprfweap_ionclint_rightarm_laser_eh1",
+					"chrprfweap_ionclint_rightarm_ppc_eh1"
+				],
+				[
+					"chrprfweap_ionclint_rightarm_laser_eh2"
+				]
+			],
+			"blanks": [
+			"chrprfweap_ionclint_rightarm_blank_eh1"
+			],
+			"mountingPoints": []
+		},
+		{
+			"location": "righttorso",
+			"weapons": [
+				[
+					"chrprfweap_ionclint_righttorso_laser_eh1"
+				]
+              ],
+				"blanks": [],
+				"mountingPoints": []
+			},
+		{
+			"location": "centertorso",
+			"weapons": [
+				[
+					"chrprfweap_ionclint_centertorso_laser_eh1"
+				]
+			],
+			"blanks": [],
+			"mountingPoints": []
+		},
+			{
+				"location": "head",
+				"weapons": [
+				[
+					"chrprfweap_ionclint_head_laser_eh1"
+				]			
+				
+				],
+				"blanks": [],
+				"mountingPoints": []
+			}
+		]
+
+	}
